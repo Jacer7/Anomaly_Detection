@@ -3,6 +3,8 @@
 pip install matplotlib.pyplot as plt
 
 pip install sklearn
+
+pip install statsmodels
 ```
 # Frontend Libraries
 ```bash
