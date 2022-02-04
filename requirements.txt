@@ -9,3 +9,4 @@ uvicorn
 aiohttp
 python-multipart
 gunicorn
+statsmodels
