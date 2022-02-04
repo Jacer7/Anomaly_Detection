@@ -8,3 +8,4 @@ fastapi
 uvicorn
 aiohttp
 python-multipart
+gunicorn
