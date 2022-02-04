@@ -1,6 +1,7 @@
 # Install Libraries
 ```bash
 pip install matplotlib.pyplot as plt
+pip install seaborn
 
 pip install sklearn
 
