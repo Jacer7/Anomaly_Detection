@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+sklearn
+scikit-learn
+streamlit
+fastapi
+uvicorn
+aiohttp
+python-multipart
